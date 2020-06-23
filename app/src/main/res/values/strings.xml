@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabyrinthLeaderboard</string>
+    <string name="l1">Synthesis</string>
+    <string name="l2">Hardcore Synthesis</string>
+    <string name="l3">SSF Synthesis</string>
+    <string name="l4">SSF Synthesis HC</string>
+    <string-array name="difficulties">
+        <item>Normal</item>
+        <item>Cruel</item>
+        <item>Merciless</item>
+        <item>Eternal</item>
+    </string-array>
+</resources>
